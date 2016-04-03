@@ -1,7 +1,7 @@
-jordibartolome.me
+AroundTheWorld
 =========
 
-See it live at <a href="http://jordibartolome.me">jordibartolome.me</a>
+See it live at <a href="http://aroundtheworld.io">aroundtheworld.io</a>
 
 This work is distributed under the MIT License.
 
