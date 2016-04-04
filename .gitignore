@@ -1,3 +1,4 @@
-node_modules2
 node_modules
+npm-debug.log
 dist
+deferred.js
